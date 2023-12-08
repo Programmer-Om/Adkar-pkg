@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "rtl-arabic": "^2.1.1"
+  },
+  "name": "adkar-pkg",
+  "version": "0.0.1",
+  "description": "An adkar pkg , this pkg view the adkar in terminal ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar-abdou",
+  "license": "BSD-2-Clause"
+}
